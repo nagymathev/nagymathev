@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nagymathev
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Programming
+- 👀 I’m interested in game engines, real time rendering, solving interesting problems.
+- 🌱 I’m currently learning how game engines render trillions of triangles with insane performance.
+- 💞️ I’m looking to collaborate on building large scale cross-platform software in the realm of games and generic real time rendering.
 - 📫 How to reach me Programming
 
 <!---
